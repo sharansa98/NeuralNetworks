@@ -1,2 +1,2 @@
-# NeuralNetworks
-AI Projects
+# NeuralNetworks Projects
+LSTM
